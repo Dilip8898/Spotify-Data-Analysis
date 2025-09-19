@@ -24,3 +24,8 @@ The following tools/libraries/software are required:
 - Matplotlib / Seaborn / Plotly (for data visualization in Python)
 - Power BI / Tableau (for interactive dashboards)
 - Spotify API (optional) for live data updates
+
+# Overview:
+<img width="1113" height="736" alt="spotify_1" src="https://github.com/user-attachments/assets/d89ece5a-52dd-4331-a7ba-1e65b95f2091" />
+<img width="1116" height="742" alt="spotify_2" src="https://github.com/user-attachments/assets/4dcae7d9-7370-4a76-a746-d5ba3072fdef" />
+
